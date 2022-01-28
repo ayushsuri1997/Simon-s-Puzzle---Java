@@ -1,1 +1,1 @@
-# Simon-s-Puzzle---Java
+# Simon-s-Puzzle - Java
